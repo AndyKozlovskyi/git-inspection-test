@@ -1,0 +1,25 @@
+patch -p0 --dry-run <<'PATCH'
+*** GitFileType.cpp.orig
+--- GitFileType.cpp
+***************
+*** 671,677 ****
+  
+-                     std::string strData( (const char*)arrDecompressedData.data() );
++                     // Build string with explicit length (do not cut at first '\0')
++                     const size_t objLen = static_cast<size_t>(_iObjectSize);
++                     std::string strData(
++                         reinterpret_cast<const char*>(arrDecompressedData.data()), objLen );
+                      if( _eObjectType == OBJ_TREE && arrDecompressedData.size() < 500 )
+                      {
+                          size_t pos1 = strData.find( ' ' );
+--- 671,678 ----
+***************
+*** 706,712 ****
+                      *appOutput = pPrevStream;
+                      strData += "\r\n";
+                      pPrevStream->write( strData.data(), strData.size() );
+-                     _iTotalOutputSize += arrDecompressedData.size();
++                     _iTotalOutputSize += objLen;
+  
+                      _eState = STATE_READ_OBJECT;
+                      break;
