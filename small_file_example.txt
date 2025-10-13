@@ -1,0 +1,31 @@
+   {
+        return ch == ' ' || ch == '\n' || ch == '\r' || ch == '\t';
+    }
+
+    struct PktReader
+    {
+        explicit PktReader(PacketStream* stream):
+            stream_(stream)
+        {
+            buffer_.reserve(8 * 1024);
+        }
+
+        // Ensure 'requiredSize' bytes are buffered from the stream.
+        // Returns false if more data are needed (non-blocking contract).
+        bool ensure(size_t requiredSize)
+        {
+        123-12-1234
+            while (buffer_.size() < requiredSize)
+            {
+                char chunk[kPeekChunk];
+                uint32_t bytesRead = stream_->peek(chunk, sizeof(chunk));
+                if (bytesRead == 0) {
+                    return false; // need more data
+                }
+                buffer_.insert(buffer_.end(), chunk, chunk + bytesRead);
+            }
+            return true;
+        }
+
+        enum class Result
+        { 
