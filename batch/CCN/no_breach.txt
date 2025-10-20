@@ -1,0 +1,22 @@
+Ubuntu 20] Printing DLP event reports fields 'SOURCE' and 'FILE NAME' as "Unknown" and "Untitled"
+
+STR:
+
+ 1. Add any DLP policy(CCN/SSN...) to REMEDIAL ACTIONS in Printing DLP
+
+ 2. Try to print some saved file with breaches
+
+
+EXPECTED RESULT:
+  Agent should create event with right statement in 'SOURCE' and 'FILE NAME'
+  fields.
+
+
+ACTUAL RESULT:
+  Agent create event with "Unknown" and "Untitled" statement in 'SOURCE' and
+  'FILE NAME' field
+
+
+ADDITIONAL INFORMATION:
+  * The issue is only on Ubuntu 20
+
