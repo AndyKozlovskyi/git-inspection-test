@@ -1,0 +1,15 @@
+POST /ws/mail/v2.0/jsonrpc?appid=YahooMailNeo&m=SendMessage&wssid=p8iwzVU86TT&windowid=213903198&r=1363178728925 HTTP/1.1
+Host: us-mg6.mail.yahoo.com
+Connection: keep-alive
+Content-Length: 360
+Accept: application/json
+Origin: http://us-mg6.mail.yahoo.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+Content-Type: application/json
+Referer: http://us-mg6.mail.yahoo.com/neo/launch?.rand=6lm6nu0tun605
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: uk-UA,uk;q=0.8,ru;q=0.6,en-US;q=0.4,en;q=0.2
+Accept-Charset: windows-1251,utf-8;q=0.7,*;q=0.3
+Cookie: HP=0; B=0v07l4d8junf2&b=4&d=J6qvZ5xpYEIGBuktpJ8lD6OryCQ-&s=j0&i=diFT8VbaPuekyyG3gHJT; AO=o=0; F=a=NkRrrnwMvSlSPLYKO_QV0WwcLzmChAVdow7vnk.LFUp432iRY_Am9HLN8uRsCeCRbo8duws-&b=H3O1; Y=v=1&n=bnbhp3unjo69g&l=i60h8p0d/o&p=m2ovvua012000000&iz=&r=mm&lg=en-US&intl=us&np=1; PH=fn=fOkLWGuGBOdHLhzWrom3&l=en-US&i=us; T=z=x7GQRBxPuURBEA3.wWgUrmxNjE0NgY2Tzc2MzM3NDcxMDYxNj&a=QAE&sk=DAAIiWhHcv0ir4&ks=EAA7JBUqWynxxUhIMwxLq9IiQ--~E&d=c2wBTVRZek1RRXhPREF4TkRRd016QTJOekUyTVRNM01RLS0BYQFRQUUBZwFOMkEzWllQWldJWUVaMkgzWE1NN1JLNzVXQQF0aXABQm5jUFNCAXp6AXg3R1FSQkE3RQ--; U=mt=0XC9YJ2MhYgVqehWbGR7JgtXUw6odZ.sXxbEy0k-&ux=x7GQRB&un=bnbhp3unjo69g
+
+{"method":"SendMessage","params":[{"message":{"subject":"asd","from":{"email":"sgarizan@yahoo.com","name":"Sergey Garizan"},"to":[{"fail":false,"email":"test@proxyconn.kiev.ua","name":"test@proxyconn.kiev.ua"}],"cc":[],"bcc":[],"replyto":{"name":"Sergey Garizan","email":"sgarizan@yahoo.com"},"simplebody":{"html":null,"text":"651-44-6112","attachment":[]}}}]}

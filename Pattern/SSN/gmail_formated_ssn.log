@@ -1,0 +1,15 @@
+POST https://mail.google.com/mail/u/0/?ui=2&ik=43a07335c1&rid=mail%3Asd.c83e.6.0&at=AF6bupOQyN1obFji5F0O_z6iLWcllP7VzA&view=up&act=sm&jsid=yq8q8vchlcmo&cmid=3&cmeb=0&cmml=510&_reqid=3858076&pcd=1&mb=0&rt=c&search=drafts HTTP/1.1
+Host: mail.google.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-Same-Domain: 1
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+Referer: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.uk.015GOtaxTt0.O/m=m_i,t,it/am=3oI4GJR_bwdGHIYd2E8q-e__7lLxE74evR2AigpAYKf6m_0P-Ad8UH6c/rt=h/d=1/rs=AItRSTN2flrIs7Wp1KVVK-GtXzzaFifN3g
+Content-Length: 966
+Cookie: GMAIL_AT=AF6bupOQyN1obFji5F0O_z6iLWcllP7VzA; GMAIL_IMP=v*2%2Fcm-ctn*11046%2Fcm-szn*510%2Fcm-styp-nw-bg%2Fno-nm-sm*1; GXSP=S; GX=DQAAANUAAACNrM84fVPGeRp3BnDrIufuhw-xA3jlRY5apOIUOHKaF6nKHHRkhiO6mOckHl54pq8AKVTVXdo0-lqXV-sHGVA4eKbOzfdmH2x5U6mGrA3Hc72CYzx3y84Hr0J88Zfw-J59IUd5yzxpBEpvQMtNDBIUbYdHYSnvlqMaOQQtqeEChAqAtCIyjSb9GHJNwBtRUGR8pJKotJqevQVBG6Qq8oaWdL4s8Lb2vQ4b62_0mzyZVXWliSLU5-9G8HbY4fbmTFED9T6z5b-HccfB6YXWKPHTtSwNE_EX5yMzjy5bHMnE4Q; S=gmail=_aKbLnCUMEOnKJABbww0cg; PREF=ID=6405b9c657f469b0:U=0debb6717f10c561:FF=0:LD=uk:TM=1378894267:LM=1381938767:GM=1:S=wTu9vZHJ53ELZ8hS; NID=67=UGFn6DwfjdvsefDtGn2Iz8H2DdsexxpubU2WJq4IBzAigN8oLvD5SX48JX04d9_fB5Y8bvOnayPuCiylIlsmUKgAihs7vPyndGNVn5Ap8TTLCioDTI1Kp4Ezgl4v2xDpaWV3gmsChzI-p338xTVWTXnCCqfYgToFRVBxmElaBIAjlNauE_YkLpgu2vuaDUdEupyk_z_scolfwSFDN3zq91JHq1GUi9BbfHdXPXZuX6Sm; SID=DQAAANMAAAAAirvWkGbz5tPWXpzTHuCG0GVAzkfcOhpUOreA2CBeboWQfaiURENeyiUaoe72w4lDUavtd03NMEIb9Ba5zcJxf846q4s0MP2R6Y-N5LkbpQBA4hCP_HNdip7Hsb7SY0Xv7WB6OlYDzBGk2Ep0zSJJPYeMUJPVFfwg0qmj1V1miT4rsbzeG4Xb-QG_ZnlnS0zShgK-EvseKdJnDRQCfspTiO2vwBIol49ri5aV74T7i6s2UK3Hh2IyRK9ubJE5g1Y_si20u41VhO7aOVukM3DEKRpNc6KWhBgpvRJ5-Pu6JQ; HSID=AShudHlucQ5q7GyG_; SSID=AlGCaQIg6RrfkLjiV; APISID=mH1v2G0A9sgMW0ba/AlXA8bjqiQzS2Wq0p; SAPISID=K58uDw7OaIdg465Q/AzT89WI_Rbn178XS9
+Pragma: no-cache
+Cache-Control: no-cache
+
+=&to=sgarizan%20%3Csgarizan%40proxyconn.kiev.ua%3E&to=&=&cc=&=&bcc=&subjectbox=&composeid=1387205406588&from=&subject=&draft=142fbe2c167530cd&bwd=&rm=undefined&cans=&ctok=&ac=%5B%5D&adc=&ishtml=1&nowrap=0&body=%3Cdiv%20dir%3D%22ltr%22%3E%3Cspan%20id%3D%22yui_3_13_0_ym1_7_1386860144825_13%22%20style%3D%22font-weight%3A%20bold%3B%22%3E%3Cspan%20id%3D%22yui_3_13_0_ym1_7_1386860144825_17%22%20style%3D%22font-style%3A%20italic%3B%22%3E4%3C%2Fspan%3E%3Cspan%20id%3D%22yui_3_13_0_ym1_7_1386860144825_20%22%20style%3D%22color%3A%20rgb(205%2C%2035%2C%2044)%3B%22%3E5%3C%2Fspan%3E6-45-11%3C%2Fspan%3E%3Cspan%20id%3D%22yui_3_13_0_ym1_1_1386860144825_4065%22%20style%3D%22background-color%3A%20rgb(128%2C%20128%2C%20128)%3B%22%3E%3Cspan%20id%3D%22yui_3_13_0_ym1_7_1386860144825_13%22%3E%3Cspan%20id%3D%22yui_3_13_0_ym1_1_1386860144825_4064%22%20style%3D%22font-style%3A%20italic%3B%22%3E01%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fdiv%3E&pte=&pti=&bpfs=&uet=&pbgt=&pbgas=

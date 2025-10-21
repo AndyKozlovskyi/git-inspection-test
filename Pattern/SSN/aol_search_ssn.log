@@ -1,0 +1,10 @@
+GET /vanity/?ts=1387206920813&h=search.aol.com&v=28&r=http%3A%2F%2Fsearch.aol.com%2Faol%2Fsearch%3Fs_it%3Dtopsearchbox.search%26v_t%3Dcomsearch51&l=0&k=1&m=1280x960&bd=1263x815&tz=-120&ms=32&t=&dL_x=1&dL_ch=us.search&dL_dpt=portal&dL_sDpt=search&fv=11.9 HTTP/1.1
+Host: b.aol.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+Referer: http://search.aol.com/aol/search?s_it=topsearchbox.search&v_t=comsearch51&q=text+ssn++111-11-1111++test+ssn
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: SNS_DIS_AIM=1; IDP_A=s-1--ahhLNt9OvVl7QlYTIGTKyeRzJlCFQEzjT5kYIyNFOg3POHySglyIa4aJW_4IId9eAlMnViI4KkEjCHZczZjBeEhcUSqK_jdySxqkUsqJrpqhkn3DEsllghr6Y87c6LqnZmzwrMQOysw17x2_mZEABUpkxuz9hUlMRA6jfamue38i1truP4iLle7rcuMqovg; MC_CMP_ESK=NonSense; SNS_AA=asrc=2&sst=1383749733&type=0; RSP_COOKIE=type=30&name=d29sZ2Fud29sZ2Fu&sn=rmHYEoOyqGWpxQHHdBYeCA%3D%3D&stype=0&agrp=M; WS_G_COOKIE=; aolweatherlocation=10003; s_sess=%20s_cc%3Dtrue%3B%20s_sq%3Daolsnssignin%253D%252526pid%25253Dsso%25252520%2525253A%25252520login%252526pidt%25253D1%252526oid%25253DSign%25252520In%252526oidt%25253D3%252526ot%25253DSUBMIT%3B; MUNAUTHID=1.27632cb962694f07ae3a1e4eb946240d.cc07; UNAUTHID=1.27632cb962694f07ae3a1e4eb946240d.3bb3; CUNAUTHID=1.27632cb962694f07ae3a1e4eb946240d.3bb3; dlV=5:3:1387206533:1387206541:1387206882; dlS=1387206882; s_vi=[CS]v1|2929F795851D2875-400001042000F89D[CE]; s_pers=%20s_fid%3D6B083C47C6268CC7-337641876E49B1EC%7C1450278919611%3B%20s_getnr%3D1387206919627-Repeat%7C1450278919627%3B%20s_nrgvo%3DRepeat%7C1450278919642%3B
+
