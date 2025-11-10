@@ -11,6 +11,9 @@ We now support the maximum number of cases possible:
 
 changes to a text file
 adding a small file
+
+test-file2 added: 345-34-3456  
+
 adding multiple or large files
 adding a folder with files.
 
