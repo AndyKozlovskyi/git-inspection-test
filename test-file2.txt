@@ -1,0 +1,22 @@
+Fixed:
+
+Repo branch    : unix-agent/Bug499
+Repo rev.      : 6d7189c56c61b3dd7fe165e965b9cadb41744e7e
+Repo short rev.: 6d7189c56c
+Build num      : 56241
+
+
+Commits for new files and directories have been fixed. Filenames was fixed.
+We now support the maximum number of cases possible:
+
+changes to a text file
+adding a small file
+adding multiple or large files
+adding a folder with files.
+
+I’ve introduced a file size limit for GIT inspection — 100 MB.
+This needs to be tested on both older and newer versions of the distributions.
+LINUX:
+https://devrepogttb.s3.amazonaws.com/packages/linux_agent/branches/origin/unix-agent/Bug499/56241-6d7189c56c61b3dd7fe165e965b9cadb41744e7e-849/manifest.json
+MAC:
+Broken - have to be fixed later.
