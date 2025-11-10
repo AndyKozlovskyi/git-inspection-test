@@ -20,7 +20,7 @@ adding a folder with files.
 123-12-1234
 
 I’ve introduced a file size limit for GIT inspection — 100 MB.
-This needs to be tested on both older and newer versions of the distributions.
+This needs to be tested on both older test-file2 added: 345-34-3456   and newer versions of the distributions.
 LINUX:
 https://devrepogttb.s3.amazonaws.com/packages/linux_agent/branches/origin/unix-agent/Bug499/56241-6d7189c56c61b3dd7fe165e965b9cadb41744e7e-849/manifest.json
 MAC:
